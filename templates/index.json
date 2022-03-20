@@ -6,21 +6,21 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Image banner",
+            "heading": "Discover Your Style",
             "heading_size": "h0"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text": "Prioritise Unique Vintage Clothes and Stand Out from others.",
             "text_style": "body"
           }
         },
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop all",
+            "button_label_1": "Shop now",
             "button_link_1": "shopify:\/\/collections\/all",
             "button_style_secondary_1": true,
             "button_label_2": "",
@@ -29,12 +29,14 @@
           }
         }
       },
+      
       "block_order": [
         "heading",
         "text",
         "button"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/banner.png",
         "image_overlay_opacity": 40,
         "image_height": "large",
         "adapt_height_first_image": false,
